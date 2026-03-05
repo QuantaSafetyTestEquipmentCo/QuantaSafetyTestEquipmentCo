@@ -85,35 +85,29 @@ customers—while advancing innovation through AI, data engineering, and modern 
 
 ## 🖼 Technology in Action
 
-### Option A: Use images hosted online (quickest)
-> Replace these URLs with your preferred images.
+<div align="center">
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1581093458791-9c4a7c4c0d78?auto=format&fit=crop&w=1400&q=80" alt="Utility safety equipment" width="95%" />
-<p><i>Supporting the crews that maintain and protect critical infrastructure.</i></p>
+<img src="https://raw.githubusercontent.com/QuantaSafetyTestEquipmentCo/QuantaSafetyTestEquipmentCo/main/LINEMAN.png" width="90%">
 
-<img src="https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=1400&q=80" alt="Warehouse operations" width="95%" />
-<p><i>Automation and systems that enable efficient distribution.</i></p>
-
-<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1400&q=80" alt="Data engineering" width="95%" />
-<p><i>Building scalable pipelines, analytics, and operational tooling.</i></p>
+<i>Supporting the linemen who maintain and protect critical electrical infrastructure.</i>
 
 </div>
 
+<br><br>
 
-<!--
-<div align="center">
-  <img src="./assets/lineman.jpg" alt="Utility safety equipment" width="95%" />
-  <p><i>Supporting the crews that maintain and protect critical infrastructure.</i></p>
+<img src="https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=1400&q=80" width="90%">
+<br>
+<i>Automation and systems that enable efficient distribution.</i>
 
-  <img src="./assets/warehouse.jpg" alt="Warehouse operations" width="95%" />
-  <p><i>Automation and systems that enable efficient distribution.</i></p>
+<br><br>
 
-  <img src="./assets/data.jpg" alt="Data engineering" width="95%" />
-  <p><i>Building scalable pipelines, analytics, and operational tooling.</i></p>
+<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1400&q=80" width="90%">
+<br>
+<i>Building scalable pipelines, analytics, and operational tooling.</i>
+
 </div>
--->
 
 ---
 
