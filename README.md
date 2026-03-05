@@ -1,9 +1,6 @@
 ## WE ARE QUANTA!⚡
 <!-- =========================================================
-  Safety Test & Equipment Co – TechTeam
-  GitHub Organization/Profile README.md
-  Paste this entire file into README.md
-========================================================= -->
+ -->
 
 <div align="center">
 
