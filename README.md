@@ -7,7 +7,7 @@
 <!-- Optional: replace with your real logo path in this repo -->
 <!-- If you add a logo file, update the src below (example: /assets/ste-techteam-logo.png) -->
 
-<h1>⚡ Safety Test &amp; Equipment Co – TechTeam</h1>
+<h1> Safety Test &amp; Equipment Co – TechTeam</h1>
 
 <p><b>Powering the technology behind modern utility safety.</b></p>
 
