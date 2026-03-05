@@ -101,14 +101,6 @@ customers—while advancing innovation through AI, data engineering, and modern 
 
 </div>
 
-### Option B: Use images stored in this repo (recommended for branding)
-1) Create a folder: `assets/`  
-2) Add files like:
-- `assets/lineman.jpg`
-- `assets/warehouse.jpg`
-- `assets/data.jpg`
-
-Then replace Option A with:
 
 <!--
 <div align="center">
