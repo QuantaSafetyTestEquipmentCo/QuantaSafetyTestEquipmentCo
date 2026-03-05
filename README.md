@@ -9,7 +9,6 @@
 
 <!-- Optional: replace with your real logo path in this repo -->
 <!-- If you add a logo file, update the src below (example: /assets/ste-techteam-logo.png) -->
-<img src="https://dummyimage.com/160x160/0b1220/ffffff.png&text=STE" alt="STE TechTeam Logo" width="140" height="140" />
 
 <h1>⚡ Safety Test &amp; Equipment Co – TechTeam</h1>
 
